@@ -1,0 +1,1 @@
+Delete FROM rightHolderProfile where id='{{this.params.id}}';

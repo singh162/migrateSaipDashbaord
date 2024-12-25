@@ -1,0 +1,1 @@
+SELECT image_data FROM complaint_form_screenshot where complaint_form_id = '{{this.params.complaint_form_id}}';

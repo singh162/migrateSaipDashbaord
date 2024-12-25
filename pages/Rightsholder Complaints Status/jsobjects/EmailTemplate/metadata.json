@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "66fe3a88af2b8e5a2a63fbe1_e924258c-4007-440f-a5f0-aa7dc29f396d",
+  "id": "Rightsholder Complaints Status_EmailTemplate",
+  "unpublishedCollection": {
+    "name": "EmailTemplate",
+    "pageId": "Rightsholder Complaints Status",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
