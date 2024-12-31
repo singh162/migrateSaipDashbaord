@@ -44,7 +44,7 @@
     "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
-  "originalBottomRow": 11,
+  "originalBottomRow": 10,
   "originalTopRow": 6,
   "overflow": "NONE",
   "parentId": "rabcp7xa28",
